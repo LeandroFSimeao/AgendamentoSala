@@ -1,0 +1,19 @@
+{
+  "name": "agendamentosalas",
+  "version": "1.0.0",
+  "description": "Software para agendamento de salas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroFSimeao/AgendamentoSala.git"
+  },
+  "author": "Leandro Simeao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroFSimeao/AgendamentoSala/issues"
+  },
+  "homepage": "https://github.com/LeandroFSimeao/AgendamentoSala#readme"
+}
